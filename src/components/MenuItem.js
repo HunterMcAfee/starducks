@@ -15,7 +15,7 @@ export default class MenuItem extends Component {
       <View
         style={{
           backgroundColor: 'white',
-          borderRadius: 8,
+          borderRadius: 2,
           marginHorizontal: 10,
           marginVertical: 8,
           shadowColor: '#8a8a8a',
